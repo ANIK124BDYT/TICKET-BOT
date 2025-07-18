@@ -1,4 +1,4 @@
-# TICKET BOT
+# 🎟️ TICKET BOT
 
 ![Node.js](https://img.shields.io/badge/Language-Node.js-green?logo=node.js&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Library-Discord.js-5865F2?logo=discord&logoColor=white)
