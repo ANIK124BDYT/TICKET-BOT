@@ -2,7 +2,6 @@
 
 ![Node.js](https://img.shields.io/badge/Language-Node.js-green?logo=node.js&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Library-Discord.js-5865F2?logo=discord&logoColor=white)
-![Gemini API](https://img.shields.io/badge/AI-Gemini%20API-ff6f00?logo=google&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 > 🎫 A powerful Ticket for Discord With Transcript and built with **Node.js** + **Discord.js**
